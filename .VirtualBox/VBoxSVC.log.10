@@ -1,0 +1,236 @@
+00:00:00.003881 main     VirtualBox COM Server 7.0.10 r158379 win.amd64 (Jul 12 2023 18:34:34) release log
+00:00:00.003885 main     Log opened 2023-10-09T01:57:44.216616000Z
+00:00:00.003886 main     Build Type: release
+00:00:00.003891 main     OS Product: Windows 10
+00:00:00.003892 main     OS Release: 10.0.19045
+00:00:00.003893 main     OS Service Pack: 
+00:00:00.026562 main     DMI Product Name: VivoBook_ASUSLaptop X515EA_X515EA
+00:00:00.038525 main     DMI Product Version: 1.0       
+00:00:00.038535 main     Firmware type: UEFI
+00:00:00.039112 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.039154 main     Host RAM: 7886MB (7.7GB) total, 3257MB (3.1GB) available
+00:00:00.039158 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.039158 main     Process ID: 11796
+00:00:00.039159 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.117245          VirtualBox: object creation starts
+00:00:00.118640          Home directory: 'C:\Users\criss11\.VirtualBox'
+00:00:00.119059          Installed Drivers:
+00:00:00.128728            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.0.10.8379)
+00:00:00.129432            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.10.8379)
+00:00:00.130537            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.10.8379)
+00:00:00.131272            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.10.8379)
+00:00:00.136626          Loading settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.144080          usbLibGetDevices: Starting USB device enumeration
+00:00:00.172942          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.173569          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.175095          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.176384          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3557)
+00:00:00.177169          USB: Unknown USB device detected (idVendor: 0x322e, idProduct: 0x2103)
+00:00:00.275346          HostDnsMonitor: initializing
+00:00:00.284673          HostDnsMonitor: updating information
+00:00:00.285334          HostDnsMonitor: old information
+00:00:00.285335            no server entries
+00:00:00.285335            no domain set
+00:00:00.285336            no search string entries
+00:00:00.285336          HostDnsMonitor: new information
+00:00:00.285336            server 1: 192.168.0.1
+00:00:00.285337            domain: www.tendawifi.com
+00:00:00.285337            no search string entries
+00:00:00.331284          VD: VDInit finished with VINF_SUCCESS
+00:00:00.490826          Loading settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox" with version "1.19-windows"
+00:00:00.541662          OCI: Local config file 'C:\Users\criss11\.VirtualBox\oci_config' does not exist
+00:00:00.541745          OCI: Original config file 'C:\Users\criss11\.oci\config' does not exist
+00:00:00.541746          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.542112          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.542283          VirtualBox: object created
+00:00:00.617747          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.621366          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:00.621686          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.624581          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:00.624871          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.627455          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:02.147275          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:32.919880 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:32.947996 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:32.948201 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:32.948519 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:39.065267          Launched VM: 423407616 pid: 19796 (0x4d54) frontend: GUI/Qt name: mac os
+00:00:39.089425          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:44.923465          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:46.095643          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:50.453256          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:50.889503          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:52.523854          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:52.524239          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:52.524971          Added USB filter (ID=1, type=4) for device 05AC:12A8 rev 0902, c/s/p FFFFFFFF/FFFFFFFF/FFFFFFFF, Manufacturer=`Apple Inc.' Product=`iPhone' Serial=`aaf683038843335d99d9248cd0def608b2aa3373'
+00:00:52.557272          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:59.811980 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:59.826771 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:59.826922 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:59.827280 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:02:20.176194 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:20.376830 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:02:20.377138 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:02:20.377381 USBPROXY Added USB filter (ID=2, type=2) for device 05AC:12A8 rev 0902, c/s/p 00/00/00, Manufacturer=`Apple Inc.' Product=`iPhone' Serial=`aaf683038843335d99d9248cd0def608b2aa3373'
+00:02:21.170913 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:21.493984 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:02:21.494470 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:02:24.940892 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:24.942583 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:02:24.942786 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:02:24.943108 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:02:33.866035          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:02:36.459149          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:41.603043          Saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox" with version "1.19-windows"
+00:02:41.608678          Finished saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox"
+00:02:41.666828          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:06:19.296175 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:19.309427 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:06:19.310618 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:06:22.511683 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:22.795178 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:06:22.795569 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:06:23.664996 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:23.666520 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:06:23.666652 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:06:23.666885 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:06:35.861963 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:06:35.865283 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:06:35.865599 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:07:12.866119 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:07:13.133355 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:07:13.133734 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:07:30.052203 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:07:30.374239 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:07:30.374453 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:07:31.667038 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:07:31.966093 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:07:31.966519 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:07:33.819586 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:07:33.820286 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:07:33.820412 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:07:33.821174 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:07:57.566430          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:08:17.123439          Added USB filter (ID=3, type=4) for device 05AC:12A8 rev 0902, c/s/p FFFFFFFF/FFFFFFFF/FFFFFFFF, Manufacturer=`Apple Inc.' Product=`iPhone' Serial=`aaf683038843335d99d9248cd0def608b2aa3373'
+00:08:17.140733          Saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox" with version "1.19-windows"
+00:08:17.148479          Finished saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox"
+00:08:17.204124          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:08:20.892940 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:08:20.896020 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:08:20.896601 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:08:29.384313 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:08:29.640419 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:08:29.640807 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:08:30.447686 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:08:30.448602 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:08:30.448696 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:08:30.448893 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:23:19.101007 dns-monitor HostDnsMonitor: updating information
+00:23:19.101335 dns-monitor HostDnsMonitor: unchanged
+00:26:54.070140 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:26:54.073021 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:26:54.073380 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:26:54.075015 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:27:21.168110 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:21.419938 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:21.421523 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:27:24.133193 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:24.408321 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:24.408792 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:27:25.149747 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:25.150693 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:27:25.150880 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:25.151336 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:27:25.911383 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:25.912215 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:27:25.912298 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:25.912449 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:27:44.937670 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:44.940921 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:44.941233 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:27:50.326668 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:50.604415 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:50.604964 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:27:51.831421 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:27:51.831721 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:27:51.832890 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:27:51.833380 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:29:06.749930 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:29:07.076321 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:29:07.076832 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:29:35.771547 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:29:36.070506 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:29:36.071293 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:29:37.036215 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:29:37.036485 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:29:37.037153 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:29:37.037365 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:30:17.138928          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:30:21.563268          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:30:33.506498          Added USB filter (ID=4, type=4) for device 05AC:1281 rev 0000, c/s/p FFFFFFFF/FFFFFFFF/FFFFFFFF, Manufacturer=`Apple Inc.' Product=`Apple Mobile Device (Recovery Mode)' Serial=`SDOM:01 CPID:8010 CPRV:11 CPFM:03 SCEP:01 BDID:0A ECID:00064414388A4326 IBFL:3D SRNM:[FCLTJ110HG03]'
+00:30:33.530898          Saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox" with version "1.19-windows"
+00:30:33.540072          Finished saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox"
+00:30:33.605568          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:31:28.148395          Added USB filter (ID=5, type=2) for device 322E:2103 rev 0102, c/s/p EF/02/01, Manufacturer=`<null>' Product=`<null>' Serial=`<null>'
+00:31:28.833106 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:31:29.064616 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:31:29.064941 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:31:36.157418          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:31:41.082801          Added USB filter (ID=6, type=2) for device 05AC:1281 rev 0000, c/s/p 00/00/00, Manufacturer=`Apple Inc.' Product=`Apple Mobile Device (Recovery Mode)' Serial=`SDOM:01 CPID:8010 CPRV:11 CPFM:03 SCEP:01 BDID:0A ECID:00064414388A4326 IBFL:3D SRNM:[FCLTJ110HG03]'
+00:31:41.768332 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:31:42.000647 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:31:42.000941 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:31:46.047289          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:31:50.684750          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={c19073dd-cc7b-431b-98b2-951fda8eab89} aComponent={HostUSBDeviceWrap} aText={USB device 'Apple Inc. iPhone' with UUID {2360ae6b-0e31-4581-89d8-aff5d456bfa0} is busy with a previous request. Please try again later}, preserve=true aResultDetail=0
+00:32:03.519906 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:32:03.523227 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:32:03.523539 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:32:38.346779 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:32:38.615608 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:32:38.615912 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:32:43.174650 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:32:43.175165 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:32:43.176322 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:32:43.176781 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:38:34.954468 dns-monitor HostDnsMonitor: updating information
+00:38:34.954554 dns-monitor HostDnsMonitor: unchanged
+00:38:56.740257          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:38:59.009445          Removed USB filter ID=1
+00:38:59.009770          Removed USB filter ID=3
+00:38:59.009801          Removed USB filter ID=4
+00:38:59.010126          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={c19073dd-cc7b-431b-98b2-951fda8eab89} aComponent={HostUSBDeviceWrap} aText={USB device '<unknown>' with UUID {956fd398-1082-4c8e-acb2-ea51941e2dfe} is busy (state 'CapturingForVM[Detach]'). Please try again later}, preserve=false aResultDetail=0
+00:38:59.010170          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={c19073dd-cc7b-431b-98b2-951fda8eab89} aComponent={HostUSBDeviceWrap} aText={USB device 'Apple Inc. iPhone' with UUID {2360ae6b-0e31-4581-89d8-aff5d456bfa0} is busy (state 'CapturingForVM[Attach]'). Please try again later}, preserve=false aResultDetail=0
+00:38:59.010186          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={c19073dd-cc7b-431b-98b2-951fda8eab89} aComponent={HostUSBDeviceWrap} aText={USB device 'Apple Inc. Apple Mobile Device (Recovery Mode)' with UUID {0020e87d-56c8-433c-9bca-8027ad0483d6} is busy (state 'CapturingForVM[Attach]'). Please try again later}, preserve=false aResultDetail=0
+00:38:59.031646          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+00:38:59.238490          Saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox" with version "1.19-windows"
+00:38:59.246010          Finished saving settings file "C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox"
+00:38:59.270394          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:39:01.308705          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:39:49.697581 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:49.701414 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:39:49.702078 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:39:51.721451 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:52.001294 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:39:52.001689 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:39:52.866046 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:39:52.866514 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:39:52.867876 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:39:52.868353 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:40:17.703561 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:40:17.707169 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:40:17.707491 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:40:24.090574 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:40:24.321338 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:40:24.321594 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:40:33.249721 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:40:33.253705 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:40:33.254013 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+00:40:41.760250 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:40:41.961219 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:40:41.961549 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:40:52.347151 main     VirtualBox: object deletion starts
+00:40:52.347242 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\criss11\VirtualBox VMs\mac os\mac os.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:40:52.358504 main     HostDnsMonitor: shutting down ...
+00:40:52.358558 main     HostDnsMonitor: shut down
+00:40:52.363999 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:40:52.364488 main     VirtualBox: object deleted

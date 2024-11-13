@@ -1,0 +1,29 @@
+00:00:01.265403 VirtualBox GUI VM Selector Window 7.1.2 r164945 win.amd64 (Sep 26 2024 15:43:09) release log
+00:00:01.265406 Log opened 2024-10-06T01:51:35.044322100Z
+00:00:01.265407 Build Type: release
+00:00:01.265412 OS Product: Windows 11
+00:00:01.265413 OS Release: 10.0.22631
+00:00:01.265414 OS Service Pack: 
+00:00:01.278649 DMI Product Name: VivoBook_ASUSLaptop X515EA_X515EA
+00:00:01.283177 DMI Product Version: 1.0       
+00:00:01.283189 Firmware type: UEFI
+00:00:01.283575 Secure Boot: Disabled
+00:00:01.283581 Host RAM: 7886MB (7.7GB) total, 995MB available
+00:00:01.283586 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.283587 Process ID: 13544
+00:00:01.283587 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.283588 Windows Features:
+00:00:01.283588   Core Isolation (Memory Integrity): Not supported
+00:00:01.283734 Qt version: 6.5.3
+00:00:01.284599 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.309443 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.494546 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:42.444002 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:42.529653 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:51.204451 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:54.933200 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:01.021815 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:08.463975 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:11.263433 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:16:35.371101 GUI: UICommon: Handling aboutToQuit request..
+00:16:36.194871 GUI: UICommon: aboutToQuit request handled!

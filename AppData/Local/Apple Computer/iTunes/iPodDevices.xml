@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Devices</key>
+	<dict>
+		<key>000170AE1E38802E</key>
+		<dict>
+			<key>Build Version</key>
+			<string>22A3370</string>
+			<key>Connected</key>
+			<date>2024-10-18T15:30:34Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10105</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>18.0.1</string>
+			<key>ID</key>
+			<string>000170AE1E38802E</string>
+			<key>IMEI</key>
+			<string>353972105258829</string>
+			<key>IMEI2</key>
+			<string>353972105063708</string>
+			<key>MEID</key>
+			<string>35397210525882</string>
+			<key>Product Type</key>
+			<string>iPhone12,1</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>DNPZJ1RMN72Q</string>
+			<key>Use Count</key>
+			<integer>1</integer>
+		</dict>
+		<key>00127CC13CDA002E</key>
+		<dict>
+			<key>Build Version</key>
+			<string>21G101</string>
+			<key>Connected</key>
+			<date>2024-09-03T05:46:34Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10084</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>17.6.1</string>
+			<key>ID</key>
+			<string>00127CC13CDA002E</string>
+			<key>IMEI</key>
+			<string>356168096220764</string>
+			<key>IMEI2</key>
+			<string>356168096161745</string>
+			<key>MEID</key>
+			<string>35616809622076</string>
+			<key>Product Type</key>
+			<string>iPhone11,2</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>C39XRHE0KPFQ</string>
+			<key>Use Count</key>
+			<integer>9</integer>
+		</dict>
+		<key>2F4715D19F62C494</key>
+		<dict>
+			<key>Build Version</key>
+			<string>16H30</string>
+			<key>Connected</key>
+			<date>2024-08-20T00:59:09Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10042</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>12.5.2</string>
+			<key>ID</key>
+			<string>2F4715D19F62C494</string>
+			<key>IMEI</key>
+			<string>356977065732116</string>
+			<key>MEID</key>
+			<string>35697706573211</string>
+			<key>Product Type</key>
+			<string>iPhone7,2</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>F17NVPFBG5MV</string>
+			<key>Use Count</key>
+			<integer>3</integer>
+		</dict>
+		<key>739E9E62D08E6DA2</key>
+		<dict>
+			<key>Build Version</key>
+			<string>16H22</string>
+			<key>Connected</key>
+			<date>2023-09-22T18:15:30Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10042</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>12.5.1</string>
+			<key>ID</key>
+			<string>739E9E62D08E6DA2</string>
+			<key>Product Type</key>
+			<string>iPhone7,2</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>C7JNG0D2G5MJ</string>
+			<key>Use Count</key>
+			<integer>3</integer>
+		</dict>
+		<key>D0DEF608B2AA3373</key>
+		<dict>
+			<key>Build Version</key>
+			<string>19H365</string>
+			<key>Connected</key>
+			<date>2023-10-09T02:30:41Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10064</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>15.7.9</string>
+			<key>ID</key>
+			<string>D0DEF608B2AA3373</string>
+			<key>IMEI</key>
+			<string>355838087329805</string>
+			<key>MEID</key>
+			<string>35583808732980</string>
+			<key>Product Type</key>
+			<string>iPhone9,2</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>FCLTJ110HG03</string>
+			<key>Use Count</key>
+			<integer>8</integer>
+		</dict>
+		<key>D3988D26AADD8674</key>
+		<dict>
+			<key>Build Version</key>
+			<string>19H370</string>
+			<key>Connected</key>
+			<date>2023-11-07T22:42:17Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10067</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>15.8</string>
+			<key>ID</key>
+			<string>D3988D26AADD8674</string>
+			<key>IMEI</key>
+			<string>355352083396818</string>
+			<key>Product Type</key>
+			<string>iPhone9,4</string>
+			<key>Region Info</key>
+			<string>LL/A</string>
+			<key>Serial Number</key>
+			<string>F2LTG39THX9G</string>
+			<key>Use Count</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

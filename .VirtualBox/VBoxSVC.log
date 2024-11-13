@@ -1,0 +1,106 @@
+00:00:00.003659 main     VirtualBox COM Server 7.1.2 r164945 win.amd64 (Sep 26 2024 15:43:09) release log
+00:00:00.003663 main     Log opened 2024-10-18T15:03:46.031172500Z
+00:00:00.003664 main     Build Type: release
+00:00:00.003670 main     OS Product: Windows 11
+00:00:00.003671 main     OS Release: 10.0.22631
+00:00:00.003671 main     OS Service Pack: 
+00:00:00.025424 main     DMI Product Name: VivoBook_ASUSLaptop X515EA_X515EA
+00:00:00.037536 main     DMI Product Version: 1.0       
+00:00:00.037548 main     Firmware type: UEFI
+00:00:00.037996 main     Secure Boot: Disabled
+00:00:00.038004 main     Host RAM: 7886MB (7.7GB) total, 758MB available
+00:00:00.038008 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.038009 main     Process ID: 15492
+00:00:00.038009 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.038274 main     Windows Features:
+00:00:00.038274 main       Core Isolation (Memory Integrity): Not supported
+00:00:00.117091          VirtualBox: object creation starts
+00:00:00.118706          Home directory: 'C:\Users\criss11\.VirtualBox'
+00:00:00.119325          Installed Drivers:
+00:00:00.177380            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.1.2.14945)
+00:00:00.209582            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.1.2.14945)
+00:00:00.310271            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.1.2.14945)
+00:00:00.346580            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.1.2.14945)
+00:00:00.375169          Loading settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.383249          usbLibGetDevices: Starting USB device enumeration
+00:00:00.398422          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.398933          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.400917          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.401676          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x3557)
+00:00:00.402816          USB: Unknown USB device detected (idVendor: 0x322e, idProduct: 0x2103)
+00:00:00.551801          netIfIsWireless: CreateFile on '\\.\{5F6FE10D-F841-40E0-AD82-615416CD75AD}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.555995          HostDnsMonitor: initializing
+00:00:00.563832          HostDnsMonitor: updating information
+00:00:00.564173          HostDnsMonitor: old information
+00:00:00.564174            no server entries
+00:00:00.564175            no domain set
+00:00:00.564175            no search string entries
+00:00:00.564176          HostDnsMonitor: new information
+00:00:00.564176            server 1: 192.168.101.1
+00:00:00.564177            domain: bbrouter
+00:00:00.564177            no search string entries
+00:00:00.621919          VD: VDInit finished with VINF_SUCCESS
+00:00:00.864146          Platform architecture set to 'x86'
+00:00:00.870130          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:00.870142          D:\tinderbox\win-rel\src\VBox\Main\src-server\MachineImpl.cpp[984] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:00.870772          Platform architecture set to 'x86'
+00:00:00.885089          Loading settings file "C:\Users\criss11\VirtualBox VMs\windows10\windows10.vbox" with version "1.19-windows"
+00:00:00.887339          Platform architecture set to 'x86'
+00:00:00.888381          Platform architecture set to 'x86'
+00:00:00.899786          Loading settings file "C:\Users\criss11\VirtualBox VMs\windows11\windows11.vbox" with version "1.19-windows"
+00:00:00.900118          Platform architecture set to 'x86'
+00:00:00.901358          VirtualBox: object created
+00:00:01.065246          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.069288          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:01.069562          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.072375          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:01.072657          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.074810          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:01.694368          Platform architecture set to 'x86'
+00:00:01.695052          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:01.695059          D:\tinderbox\win-rel\src\VBox\Main\src-server\MachineImpl.cpp[984] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:01.695851          Platform architecture set to 'x86'
+00:00:01.696249          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:01.696255          D:\tinderbox\win-rel\src\VBox\Main\src-server\MachineImpl.cpp[984] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:01.698054          Platform architecture set to 'x86'
+00:00:01.698436          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={Runtime error opening 'C:\Users\criss11\VirtualBox VMs\mac os\mac os.vbox' for reading VERR_PATH_NOT_FOUND (Path not found.).
+00:00:01.698441          D:\tinderbox\win-rel\src\VBox\Main\src-server\MachineImpl.cpp[984] (long __cdecl Machine::i_registeredInit(void))}, preserve=false aResultDetail=0
+00:00:02.049725          NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:02.049799          NvramStore: Loading 'efi/nvram' from archive
+00:00:02.180756          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Aborted)}, preserve=false aResultDetail=0
+00:00:08.735789          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:08.736562          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.740135          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:08.740631          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.743491          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:08.753981 DeleteVM Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.794059 DeleteVM Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:08.795489          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.798272          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:08.804222          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {5604a83b-e518-4b3d-b7a2-01a7a745834a}}, preserve=false aResultDetail=0
+00:00:08.816340          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {5604a83b-e518-4b3d-b7a2-01a7a745834a}}, preserve=false aResultDetail=0
+00:00:08.840205          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:08.856841          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:13.736196          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The object functionality is limited}, preserve=false aResultDetail=0
+00:00:13.736293          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.743442          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:13.743560          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.746272          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:13.751229 DeleteVM Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.756009 DeleteVM Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:13.767699          Saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:13.774928          Finished saving settings file "C:\Users\criss11\.VirtualBox\VirtualBox.xml"
+00:00:13.796203          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {dc0eb2eb-ec29-438d-910c-e8057975e04a}}, preserve=false aResultDetail=0
+00:00:13.813991          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {dc0eb2eb-ec29-438d-910c-e8057975e04a}}, preserve=false aResultDetail=0
+00:00:13.829329          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={Loading the NVRAM store failed (VERR_PATH_NOT_FOUND)
+00:00:13.829335          }, preserve=false aResultDetail=0
+00:00:13.830605          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:00:26.471920 dns-monitor HostDnsMonitor: updating information
+00:00:26.471941 dns-monitor HostDnsMonitor: unchanged
+00:01:21.471783 dns-monitor HostDnsMonitor: updating information
+00:01:21.471854 dns-monitor HostDnsMonitor: unchanged
+00:02:40.963973 main     VirtualBox: object deletion starts
+00:02:40.966347 main     HostDnsMonitor: shutting down ...
+00:02:40.966563 main     HostDnsMonitor: shut down
+00:02:40.977026 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:02:40.977923 main     VirtualBox: object deleted
