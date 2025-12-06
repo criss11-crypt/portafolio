@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build
+dist/
+build/
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+
+# OS
+**/.*
+!.gitignore
